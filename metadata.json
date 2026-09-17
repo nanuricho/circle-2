@@ -1,0 +1,6 @@
+{
+  "name": "컴퍼스 원 탐구교실",
+  "description": "초등학교 3학년 수학 '원' 단원 학습을 위한 컴퍼스 원 그리기, 원의 성질(중심, 반지름, 지름) 탐구 및 모눈종이 캔버스 편집·저장 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
